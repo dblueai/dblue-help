@@ -1,3 +1,3 @@
 # Dblue AI
 
-## [Create an issue to get help from Dblue Team](https://github.com/dblueai/dblue-help//issues/new)
+## [Create an issue here and we will look into it right away](https://github.com/dblueai/dblue-help//issues/new)
